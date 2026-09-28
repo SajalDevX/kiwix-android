@@ -142,8 +142,8 @@
   <string name="external_link_popup_dialog_title">Moned d’al liamm diavaez</string>
   <string name="external_link_popup_dialog_message" fuzzy="true">Emaoc’h o tiraez ul liamm diavaez. Gallout a ra degas frejoù ouzhpenn deoc’h evit treuzkas roadennoù pe ne yelo ket en-dro pa viot enlinenn, tra ken. Ha c’hoant ho peus da genderc’hel ?</string>
   <string name="do_not_ask_anymore">Chom hep goulenn ken</string>
-  <string name="your_languages">Yezhoù diuzet</string>
-  <string name="other_languages">Yezhoù all :</string>
+  <string name="your_languages" fuzzy="true">Yezhoù diuzet</string>
+  <string name="other_languages" fuzzy="true">Yezhoù all :</string>
   <string name="no_items_msg">Elfenn ebet da gaout</string>
   <string name="crash_title">Ma… Un tammig diaes omp lakaet</string>
   <string name="crash_description" fuzzy="true">Gallout a rafec’h sikour ac’hanomp da renkañ ar gudenn-mañ en ur gas an titouroù-mañ ?</string>
